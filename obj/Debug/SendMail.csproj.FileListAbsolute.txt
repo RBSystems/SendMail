@@ -1,0 +1,7 @@
+C:\Dropbox\Projects\SIMPL#\SendMail\SendMail\bin\SendMail.dll
+C:\Dropbox\Projects\SIMPL#\SendMail\SendMail\bin\SendMail.pdb
+C:\Dropbox\Projects\SIMPL#\SendMail\SendMail\bin\SimplSharpCustomAttributesInterface.dll
+C:\Dropbox\Projects\SIMPL#\SendMail\SendMail\bin\SimplSharpHelperInterface.dll
+C:\Dropbox\Projects\SIMPL#\SendMail\SendMail\obj\Debug\ResolveAssemblyReference.cache
+C:\Dropbox\Projects\SIMPL#\SendMail\SendMail\obj\Debug\SendMail.dll
+C:\Dropbox\Projects\SIMPL#\SendMail\SendMail\obj\Debug\SendMail.pdb
